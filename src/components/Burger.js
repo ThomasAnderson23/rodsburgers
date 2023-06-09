@@ -15,5 +15,4 @@ const Burger = ({title, img}) => {
     </div>  
   )
 }
-
 export default Burger
