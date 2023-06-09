@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import Burger from "./Coffee"
+import Burger from "./Burger"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faChevronRight } from "@fortawesome/free-solid-svg-icons"
 import Burger1 from "../images/Burger-item1.png"
